@@ -8,7 +8,7 @@ This corresponds to the published work:
 
 Truong, D., Milham, M., Makeig, S., & Delorme, A. (2021). Deep Convolutional Neural Network Applied to Electroencephalography: Raw Data vs Spectral Features. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2021, 1039–1042. https://doi.org/10.1109/EMBC46164.2021.9630708
 
-Check [here]([https://github.com/sccn/dl_sccn_demo/blob/master/eeg_ml_example_1_v2.mlx](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2F286df8f1-6301-4b46-8cce-0f3e089e93bb%2Ff67d6263-025b-46e5-b139-4163be748cda%2Ffiles%2Feeg_ml_example_1_v2.mlx&embed=web) to see the MATLAB LiveScript.
+Check [here][https://github.com/sccn/dl_sccn_demo/blob/master/eeg_ml_example_1_v2.mlx](https://viewer.mathworks.com/?viewer=live_code&url=https%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Fmlc-downloads%2Fdownloads%2F286df8f1-6301-4b46-8cce-0f3e089e93bb%2Ff67d6263-025b-46e5-b139-4163be748cda%2Ffiles%2Feeg_ml_example_1_v2.mlx&embed=web) to see the MATLAB LiveScript.
 
 # Original repository
 
