@@ -16,5 +16,5 @@ https://github.com/arnodelorme/child_mind_arno itself a submodule in the release
 
 # Acknowledgements
 
-This work was partially supported by a GIFT from Mathworks.
+This work was partially supported by a GIFT from Mathworks. Ivan Skelin, PhD, assisted in creating the LiveScript demo.
 
