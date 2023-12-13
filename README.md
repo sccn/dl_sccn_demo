@@ -4,6 +4,8 @@
 # SCCN deep learning demo
 
 This repository is a demo of a deep-learning EEG model in MATLAB. 
+In this example, we use a large public EEG dataset from the Child Mind Institute, a non-profit organization for the advancement of children's mental health. A subset of the dataset is used to train the existing convolutional neural network classification model R-VGG_noNormalization. Furthermore, we take advantage of the MATLAB Array Datastore introduced in R2021a to facilitate the handling of large files that might not fit in memory. 
+
 This corresponds to the published work: 
 
 Truong, D., Milham, M., Makeig, S., & Delorme, A. (2021). Deep Convolutional Neural Network Applied to Electroencephalography: Raw Data vs Spectral Features. Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference, 2021, 1039–1042. https://doi.org/10.1109/EMBC46164.2021.9630708
